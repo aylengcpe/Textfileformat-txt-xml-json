@@ -10,7 +10,13 @@ Public Class Form1
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+        Dim writer As TextWriter = New StreamWriter("C:\Users\careshiela\out.xml")
 
+        writer.Write("Name: " + TextBox1.Text + Environment.NewLine + "Age: " + TextBox2.Text + Environment.NewLine + "Address: " + TextBox3.Text)
+
+        writer.Close()
+
+        MessageBox.Show("Exported!")
     End Sub
 
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
@@ -24,4 +30,6 @@ Public Class Form1
         MessageBox.Show("Exported!")
 
     End Sub
+
+
 End Class
