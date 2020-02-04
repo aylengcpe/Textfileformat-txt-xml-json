@@ -10,6 +10,7 @@ Public Class Form1
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+        'sir papalit nalang po ng path. Thanks!
         Dim writer As TextWriter = New StreamWriter("C:\Users\careshiela\out.xml")
 
         writer.Write("Name: " + TextBox1.Text + Environment.NewLine + "Age: " + TextBox2.Text + Environment.NewLine + "Address: " + TextBox3.Text)
@@ -31,5 +32,14 @@ Public Class Form1
 
     End Sub
 
+    Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
+        'sir papalit nalang po ng path. Thanks!
+        Dim writer As TextWriter = New StreamWriter("C:\Users\careshiela\out.json")
 
+        writer.Write("Name: " + TextBox1.Text + Environment.NewLine + "Age: " + TextBox2.Text + Environment.NewLine + "Address: " + TextBox3.Text)
+
+        writer.Close()
+
+        MessageBox.Show("Exported!")
+    End Sub
 End Class
