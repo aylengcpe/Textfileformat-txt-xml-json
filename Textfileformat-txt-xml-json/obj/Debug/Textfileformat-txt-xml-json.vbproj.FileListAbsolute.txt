@@ -1,0 +1,11 @@
+c:\users\careshiela\documents\visual studio 2015\Projects\Textfileformat-txt-xml-json\Textfileformat-txt-xml-json\bin\Debug\Textfileformat-txt-xml-json.exe.config
+c:\users\careshiela\documents\visual studio 2015\Projects\Textfileformat-txt-xml-json\Textfileformat-txt-xml-json\bin\Debug\Textfileformat-txt-xml-json.exe
+c:\users\careshiela\documents\visual studio 2015\Projects\Textfileformat-txt-xml-json\Textfileformat-txt-xml-json\bin\Debug\Textfileformat-txt-xml-json.pdb
+c:\users\careshiela\documents\visual studio 2015\Projects\Textfileformat-txt-xml-json\Textfileformat-txt-xml-json\bin\Debug\Textfileformat-txt-xml-json.xml
+c:\users\careshiela\documents\visual studio 2015\Projects\Textfileformat-txt-xml-json\Textfileformat-txt-xml-json\obj\Debug\Textfileformat-txt-xml-json.vbprojResolveAssemblyReference.cache
+c:\users\careshiela\documents\visual studio 2015\Projects\Textfileformat-txt-xml-json\Textfileformat-txt-xml-json\obj\Debug\Textfileformat_txt_xml_json.Form1.resources
+c:\users\careshiela\documents\visual studio 2015\Projects\Textfileformat-txt-xml-json\Textfileformat-txt-xml-json\obj\Debug\Textfileformat_txt_xml_json.Resources.resources
+c:\users\careshiela\documents\visual studio 2015\Projects\Textfileformat-txt-xml-json\Textfileformat-txt-xml-json\obj\Debug\Textfileformat-txt-xml-json.vbproj.GenerateResource.Cache
+c:\users\careshiela\documents\visual studio 2015\Projects\Textfileformat-txt-xml-json\Textfileformat-txt-xml-json\obj\Debug\Textfileformat-txt-xml-json.exe
+c:\users\careshiela\documents\visual studio 2015\Projects\Textfileformat-txt-xml-json\Textfileformat-txt-xml-json\obj\Debug\Textfileformat-txt-xml-json.xml
+c:\users\careshiela\documents\visual studio 2015\Projects\Textfileformat-txt-xml-json\Textfileformat-txt-xml-json\obj\Debug\Textfileformat-txt-xml-json.pdb
