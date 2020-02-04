@@ -160,7 +160,7 @@ Partial Class Form1
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.MaximizeBox = False
         Me.Name = "Form1"
-        Me.Text = "Text Box"
+        Me.Text = "Fill me out!"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 

@@ -9,3 +9,14 @@ c:\users\careshiela\documents\visual studio 2015\Projects\Textfileformat-txt-xml
 c:\users\careshiela\documents\visual studio 2015\Projects\Textfileformat-txt-xml-json\Textfileformat-txt-xml-json\obj\Debug\Textfileformat-txt-xml-json.exe
 c:\users\careshiela\documents\visual studio 2015\Projects\Textfileformat-txt-xml-json\Textfileformat-txt-xml-json\obj\Debug\Textfileformat-txt-xml-json.xml
 c:\users\careshiela\documents\visual studio 2015\Projects\Textfileformat-txt-xml-json\Textfileformat-txt-xml-json\obj\Debug\Textfileformat-txt-xml-json.pdb
+C:\Users\careshiela\Documents\Visual Studio 2015\Textfileformat-txt-xml-json\Textfileformat-txt-xml-json\bin\Debug\Textfileformat-txt-xml-json.exe.config
+C:\Users\careshiela\Documents\Visual Studio 2015\Textfileformat-txt-xml-json\Textfileformat-txt-xml-json\obj\Debug\Textfileformat-txt-xml-json.exe
+C:\Users\careshiela\Documents\Visual Studio 2015\Textfileformat-txt-xml-json\Textfileformat-txt-xml-json\obj\Debug\Textfileformat-txt-xml-json.xml
+C:\Users\careshiela\Documents\Visual Studio 2015\Textfileformat-txt-xml-json\Textfileformat-txt-xml-json\obj\Debug\Textfileformat-txt-xml-json.pdb
+C:\Users\careshiela\Documents\Visual Studio 2015\Textfileformat-txt-xml-json\Textfileformat-txt-xml-json\obj\Debug\Textfileformat-txt-xml-json.vbprojResolveAssemblyReference.cache
+C:\Users\careshiela\Documents\Visual Studio 2015\Textfileformat-txt-xml-json\Textfileformat-txt-xml-json\obj\Debug\Textfileformat_txt_xml_json.Form1.resources
+C:\Users\careshiela\Documents\Visual Studio 2015\Textfileformat-txt-xml-json\Textfileformat-txt-xml-json\obj\Debug\Textfileformat_txt_xml_json.Resources.resources
+C:\Users\careshiela\Documents\Visual Studio 2015\Textfileformat-txt-xml-json\Textfileformat-txt-xml-json\obj\Debug\Textfileformat-txt-xml-json.vbproj.GenerateResource.Cache
+C:\Users\careshiela\Documents\Visual Studio 2015\Textfileformat-txt-xml-json\Textfileformat-txt-xml-json\bin\Debug\Textfileformat-txt-xml-json.exe
+C:\Users\careshiela\Documents\Visual Studio 2015\Textfileformat-txt-xml-json\Textfileformat-txt-xml-json\bin\Debug\Textfileformat-txt-xml-json.pdb
+C:\Users\careshiela\Documents\Visual Studio 2015\Textfileformat-txt-xml-json\Textfileformat-txt-xml-json\bin\Debug\Textfileformat-txt-xml-json.xml
